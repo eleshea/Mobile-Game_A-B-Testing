@@ -1,7 +1,16 @@
 # Mobile-Game_A-B-Testing
 
 
-## Description
+## AB Testing Process
+1. Understanding business problem & data
+2. Detect and resolve problems in the data (Missing Value, Outliers, Unexpected Value)
+3. Look summary stats and plots
+4. Apply hypothesis testing and check assumptions
+ Check Normality & Homogeneity
+ Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test)
+5. Evaluate the results
+6. Make inferences
+7. Recommend business decision to your customer/director/ceo etc.
 
 
 ## Data Source
