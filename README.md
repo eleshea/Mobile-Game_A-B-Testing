@@ -18,7 +18,7 @@ Analyze the player retention of a mobile puzzle game Cookie Cats where A/B Testi
 
 
 ## Data Source
-https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing.
+[Kaggle](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing)
 
 
 ## Metadata
